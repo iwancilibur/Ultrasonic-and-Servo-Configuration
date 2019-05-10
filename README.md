@@ -29,7 +29,7 @@ Pada dasarnya motor servo banyak digunakan sebagai aktuator yang membutuhkan pos
 #Wiring Proses
 Pin-pin yang Perlu di hubungkan:
 
-/*
+
 Sensor jarak HC-SR04
 =====================
 VCC to arduino 5v, 
@@ -41,9 +41,7 @@ Servo
 =====================
 VCC (Merah) 5V, 
 GND (Coklat) GND, 
-Signal (kuning) pin 9, 
-*/
-
+Signal (kuning) pin 9
 
 
 #Interactive Robotics
