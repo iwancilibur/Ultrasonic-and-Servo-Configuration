@@ -21,7 +21,12 @@ Pantulan gelombang tersebut akan diterima oleh piezoelektrik (receiver) dan kemu
 
 #SERVO
 ========================
-Wiring Proses
+Motor servo adalah komponen elektronika yang berupa motor yang memiliki sistem feedback atau umpan balik guna memberikan informasi posisi putaran motor aktual yang diteruskan pada rangkaian kontrol mikrokontroler.
+
+Pada dasarnya motor servo banyak digunakan sebagai aktuator yang membutuhkan posisi putaran motor yang presisi.
+
+
+#Wiring Proses
 /*
 Sensor jarak HC-SR04
 =====================
@@ -37,3 +42,8 @@ VCC (Merah) 5V
 GND (Coklat) GND
 Signal (kuning) pin 9
 */
+
+
+
+Interactive Robotics
+www.interactiverobotics.club
